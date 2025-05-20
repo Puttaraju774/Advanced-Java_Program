@@ -4,6 +4,9 @@ import java.util.Random;
 public class RandomStringGenerator {
     public static void main(String[] args) {
         System.out.println("Random string: " + generateRandomString(10));
+        System.out.println("Random string: " + generateRandomString(10));
+        System.out.println("Random string: " + generateRandomString(10));
+        System.out.println("Random string: " + generateRandomString(10));
     }
 
     public static String generateRandomString(int length) {
