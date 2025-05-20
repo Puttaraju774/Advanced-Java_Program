@@ -3,6 +3,7 @@ public class CheckNumeric {
     public static void main(String[] args) {
         String input = "123456";
         System.out.println("Is numeric? " + isNumeric(input));
+        System.out.println("Is numeric? " + isNumeric(input1));
     }
 
     public static boolean isNumeric(String str) {
