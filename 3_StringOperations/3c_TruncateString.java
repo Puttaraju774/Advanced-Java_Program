@@ -2,7 +2,11 @@
 public class TruncateString {
     public static void main(String[] args) {
         String input = "This is a very long sentence that should be shortened.";
+        String input = "This is a very long";
+        
         System.out.println(truncate(input, 25));
+        System.out.println(truncate(input1, 25));
+ }
     }
 
     public static String truncate(String str, int length) {
