@@ -2,6 +2,7 @@
 public class CapitalizeWords {
     public static void main(String[] args) {
         String input = "java programming language";
+        System.out.println("Before Capitalize: " + input);
         System.out.println("Capitalized: " + capitalizeWords(input));
     }
 
