@@ -27,76 +27,77 @@
 2a_StringOperations.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/2_StringPerformance/s-3a_StringOperation.PNG
 https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/2_StringPerformance/s-3a_StringOperation2.PNG
 
-2b_StringPerformance.java - o/p link --https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/2_StringPerformance/s-2b_StringPerformance.PNG
+2b_StringPerformance.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/2_StringPerformance/s-2b_StringPerformance.PNG
 
-3a_StringHandling.java
-
-3b_PalindromeCheck.java
-
-3b_RemoveWhitespace.java
-
-3b_StringNullOrEmptyCheck.java
-
-3b_StringReverser.java
-
-3b_SubstringCount.java
-
-3c_CapitalizeWords.java
-Update 3c_CapitalizeWords.java
-18 hours ago
-3c_CheckNumeric.java
-Update 3c_CheckNumeric.java
-18 hours ago
-3c_RandomStringGenerator.java
-Update 3c_RandomStringGenerator.java
-18 hours ago
-3c_TruncateString.java
-Update 3c_TruncateString.java
-18 hours ago
-3c_WordCounter.java
+3a_StringHandling.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/2_StringPerformance/s-3a_StringOperation.PNG
+https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/2_StringPerformance/s-3a_StringOperation2.PNG
 
 
-4a_SwingExample.java
-first commit
-19 hours ago
-4b_ButtonExample.java
+3b_PalindromeCheck.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3b_PalindromeCheck.PNG
 
-5a_JListExample.java
-first commit
-19 hours ago
-5b_TabbedPaneExample.java
-first commit
-19 hours ago
-5c_CountryCapitalJList.java
-first commit
-19 hours ago
-5d_ColorTabbedPane.java
+3b_RemoveWhitespace.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3b_RemoveWhitespace.PNG
 
-6a_FactorialServlet.java
-first commit
-19 hours ago
-6a_index.html
-first commit
-19 hours ago
-6b_CookieServlet.java
-first commit
-19 hours ago
-6b_index.html
-first commit
-19 hours ago
-6c_PrimeCheckServlet.java
-first commit
-19 hours ago
-6c_index.html
+3b_StringNullOrEmptyCheck.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3b_StringNullOrEmptyCheck.PNG
 
-7_JSPCookieManagement
+3b_StringReverser.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3b_StringReverser.PNG
 
-7_JSPSessionManagement
+3b_SubstringCount.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3b_SubstringCount.PNG
 
-8_CoffeeJDBC
+3c_CapitalizeWords.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3c_CapitalizeWords.PNG
 
-8_EmployeeJDBC
+3c_CheckNumeric.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3c_CheckNumeric.PNG
 
-9_CoffeeJDBC
+3c_RandomStringGenerator.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3c_RandomStringGenerator.PNG
 
-9_EmployeeJDBC
+3c_TruncateString.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3c_TruncateString.PNG
+
+3c_WordCounter.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/3_StringOperations/s-3c_WordCounter.PNG
+
+
+4a_SwingExample.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/4_Swing/s-4a_SwingExample.PNG
+
+4b_ButtonExample.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/4_Swing/s-4b_ButtonExample.PNG
+
+
+5a_JListExample.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/5_Swing/s-5a_JListExample.PNG
+
+5b_TabbedPaneExample.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/5_Swing/s-5b_TabbedPaneExample.PNG
+
+5c_CountryCapitalJList.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/5_Swing/s-5c_CountryCapitalJList.PNG
+
+5d_ColorTabbedPane.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/5_Swing/s-5d_ColorTabbedPane..PNG
+
+
+6a_FactorialServlet.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/6_Servlet/s-6a_Factorial1.PNG
+https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/6_Servlet/s-6a_Factorial2.PNG
+
+6b_CookieServlet.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/6_Servlet/s-6b_cookieServlet.PNG
+https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/6_Servlet/s-6b_cookiesevlet2.PNG
+
+6c_PrimeCheckServlet.java - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/6_Servlet/s-6c_PrimeServlet.PNG
+https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/6_Servlet/s-6c_PrimeServlet2.PNG
+https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/6_Servlet/s-6c_PrimeServlet3.PNG
+
+7_JSPCookieManagement - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/7_JSPCookieManagement/s-7b_CookieManage1.PNG
+https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/7_JSPCookieManagement/s-7b_CookieManage2.PNG
+
+7_JSPSessionManagement - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/7_JSPSessionManagement/s-7a_Session1.PNG
+https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/7_JSPSessionManagement/s-7a_Session2.PNG
+https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/7_JSPSessionManagement/s-7a_Session3.PNG
+
+
+8a_InsertCoffee.jsp - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/8_CoffeeJDBC/s-8a_insertcoffee.PNG
+
+8b_updateCoffee.jsp - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/8_CoffeeJDBC/s-8b_updatecoffee.PNG
+
+8c_insertEmp.jsp - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/8_EmployeeJDBC/s-8c_insertEmployee.PNG
+
+8d_updateEmp.jsp - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/8_EmployeeJDBC/s-8d_updateEmployee.PNG
+
+9a_deleteCoffee.jsp - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/9_CoffeeJDBC/s-9a_delete.PNG
+
+9b_NameStartsWithD.jsp - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/9_CoffeeJDBC/s-9b_namewithD.PNG
+
+9c_insertEmp.jsp - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/9_EmployeeJDBC/s-9c_update.PNG
+
+9d_deleteEmp.jsp - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/9_EmployeeJDBC/s-9d_namestart.PNG
