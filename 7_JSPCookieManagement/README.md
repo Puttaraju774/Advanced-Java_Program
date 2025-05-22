@@ -1,0 +1,1 @@
+7_JSPCookieManagement - o/p link -- https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/7_JSPCookieManagement/s-7b_CookieManage1.PNG https://github.com/Puttaraju774/Advanced-Java_Program/blob/main/7_JSPCookieManagement/s-7b_CookieManage2.PNG
